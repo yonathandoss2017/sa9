@@ -2,8 +2,8 @@
   "dependencies": {
     "argparse": "^1.0.10",
     "execa": "^4.0.2",
-    "firebase-tools": "^9.10.0",
-    "inquirer": "^7.2.0"
+    "firebase-tools": "^13.15.3",
+    "inquirer": "^9.0.0"
   },
   "devDependencies": {
     "@types/argparse": "^1.0.38",
